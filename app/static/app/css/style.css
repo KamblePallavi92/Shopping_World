@@ -1,0 +1,40 @@
+.owl-carousel .item{
+ /* border: 1px solid black; */
+ font-size: 24px;
+ text-align: center;
+ margin-top: 20px;;
+}
+
+.owl-next{
+ float:right;
+}
+.owl-prev{
+ float:left;
+}
+.owl-prev span{
+ font-size: 24px;
+ font-weight: bold;
+}
+.owl-next span{
+ font-size: 24px;
+ font-weight: bold;
+}
+
+#logo{
+    width:100px;
+    height:50px;
+}
+
+.menubar{
+    box-shadow:0 12px 0 0 rgb(0 0 0 / 5%);
+}
+
+.menubar a{
+    color:#1196b8;
+    text-decoration: none;
+    text-align: left;
+    font-size: 14px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
